@@ -18,7 +18,7 @@ A **Informatic Engineering Student** 🚀 from Chiclayo, Peru.
     Visualization, Machine Learning, and Artificial Intelligence.
 - 🤔 My interests are creating solutions with AI predictive models.
 - 💼 I’m pursuing a Bachelor's degree in Informatic Engineering at UTP.
-- ⭐ Hackathon UTP 2024 Winner.
+- ⭐ Hackathon UTP+ 2024 Winner.
 
 <br />
 
