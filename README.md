@@ -1,7 +1,7 @@
 # **Hey 👋, I'm Martin!**
 
-<a href="https://www.linkedin.com/in/mart%C3%ADn-alexander-ramos-yampuf%C3%A9-b42889238/">
-    <img align="center" alt="Martins's LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+<a href="https://www.linkedin.com/in/martin-alexander-ramos-yampufe/">
+  <img align="center" alt="Martins's LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <br />
@@ -13,19 +13,19 @@ A **Informatic Engineering Student** 🚀 from Chiclayo, Peru.
 <div>
   <img align="right" alt="gif" width="210" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
-  
+
 - 🌱 I’m currently exploring Python with a big interest in Big Data, Data
-    Visualization, Machine Learning, and Artificial Intelligence.
+  Visualization, Machine Learning, and Artificial Intelligence.
 - 🤔 My interests are creating solutions with AI predictive models.
 - 💼 I’m pursuing a Bachelor's degree in Informatic Engineering at UTP.
-- ⭐ Hackathon UTP 2024 Winner.
+- ⭐ Hackathon UTP+ 2024 Winner.
 
 <br />
 
 ## **Languages and Tools**
 
 <div align="center">
-  <img alt="lenguages" src="https://skillicons.dev/icons?i=py,java,mysql,dart,cpp,cs,html,css,javascript,typescript,php,arduino,powershell,bash" />
+  <img alt="lenguages" src="https://skillicons.dev/icons?i=py,java,mysql,dart,cpp,typescript,javascript,cs,html,css,php,arduino,powershell,bash" />
   <img
     height="48"
     src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"
@@ -51,13 +51,27 @@ A **Informatic Engineering Student** 🚀 from Chiclayo, Peru.
     src="https://avatars.githubusercontent.com/u/215947?s=200&v=4"
   />
   <img
-    alt="technologies"
-    src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,selenium,maven,gradle,flutter,spring,fastapi,angular,react,tailwind"
+    alt="python technologies"
+    src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,selenium,fastapi"
   />
 </div>
 
 <div align="center">
-  <img alt="tools" src="https://skillicons.dev/icons?i=latex,markdown,git,github,vscode,idea" />
+  <img
+    alt="technologies"
+    src="https://skillicons.dev/icons?i=hibernate,maven,gradle,spring"
+  />
+</div>
+
+<div align="center">
+  <img
+    alt="technologies"
+    src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,flutter"
+  />
+</div>
+
+<div align="center">
+  <img alt="tools" src="https://skillicons.dev/icons?i=latex,markdown,regex,git,github,vscode,vim,idea,postman,githubactions,docker,anaconda" />
   <img
     height="46"
     src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"
