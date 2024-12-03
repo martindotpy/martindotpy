@@ -71,7 +71,7 @@ A **Informatic Engineering Student** 🚀 from Chiclayo, Peru.
 </div>
 
 <div align="center">
-  <img alt="tools" src="https://skillicons.dev/icons?i=latex,markdown,regex,git,github,vscode,vim,idea,postman,githubactions,docker,anaconda" />
+  <img alt="tools" src="https://skillicons.dev/icons?i=latex,markdown,regex,git,github,vscode,vim,idea,postman,githubactions,docker,nginx,anaconda" />
   <img
     height="46"
     src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"
