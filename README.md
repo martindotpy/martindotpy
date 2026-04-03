@@ -1,80 +1,53 @@
-# **Hey 👋, I'm Martin!**
-
-<a href="https://www.linkedin.com/in/martin-alexander-ramos-yampufe/">
-  <img align="center" alt="Martins's LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-
-<br />
-
-A **Informatic Engineering Student** 🚀 from Chiclayo, Peru.
-
-## **About Me!**
-
-<div>
-  <img align="right" alt="gif" width="210" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
-
-- 🌱 I’m currently exploring Python with a big interest in Big Data, Data
-  Visualization, Machine Learning, and Artificial Intelligence.
-- 🤔 My interests are creating solutions with AI predictive models.
-- 💼 I’m pursuing a Bachelor's degree in Informatic Engineering at UTP.
-- ⭐ Hackathon UTP+ 2024 Winner.
-
-<br />
-
-## **Languages and Tools**
+<h1 align="center">
+  <code>martindotpy</code>
+</h1>
 
 <div align="center">
-  <img alt="lenguages" src="https://skillicons.dev/icons?i=py,java,mysql,dart,cpp,typescript,javascript,cs,html,css,php,arduino,powershell,bash" />
-  <img
-    height="48"
-    src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"
-    alt="SQL Server"
-    />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&height=24&lines=Systems+and+Computer+Engineering;Full+Stack+Developer+%7C+Quarkus+%2B+React;Data+%26+AI+%7C+Python+%2B+FastAPI;2x+Hackathon+Winner+🏆)](https://martindotpy.dev)
+
 </div>
 
-<div align="center">
-  <img
-    height="46"
-    alt="numpy"
-    src="https://numpy.org/images/logo.svg"
-  />
-  <img
-    height="46"
-    width="46"
-    alt="pandas"
-    src="https://pandas.pydata.org/static/img/pandas_mark_white.svg"
-  />
-  <img
-    height="46"
-    alt="matplotlib"
-    src="https://avatars.githubusercontent.com/u/215947?s=200&v=4"
-  />
-  <img
-    alt="python technologies"
-    src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,selenium,fastapi"
-  />
-</div>
+## 👾 About Me
+
+```python
+class Martin:
+    role = "Full Stack Developer & Data Enthusiast"
+    education = "Systems and Computer Engineering"
+    passions = [
+      "Robust backends",
+      "Applied AI",
+      "Extreme performance",
+      "Hackathons"
+    ]
+    currently = "Building things that scale 🚀"
+```
+
+## 🏆 Highlights
 
 <div align="center">
-  <img
-    alt="technologies"
-    src="https://skillicons.dev/icons?i=hibernate,maven,gradle,spring"
-  />
+
+|     | Achievement                         | Details                                     |
+| :-: | :---------------------------------- | :------------------------------------------ |
+| 🥇  | Hackathon UTP+ 2024 — **1st Place** | Collaborative platform with microservices   |
+| 🥈  | Hackathon UTP+ 2025 — **2nd Place** | Unified mobile app · 15s load on 3G         |
+| 🌎  | International Exchange              | Konrad Lorenz, Colombia · Data Science & AI |
+| 📜  | CCNA Cisco 2025                     | Switching, Routing & Wireless Essentials    |
+
 </div>
 
-<div align="center">
-  <img
-    alt="technologies"
-    src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,flutter"
-  />
-</div>
+## 🛠️ Languages
 
 <div align="center">
-  <img alt="tools" src="https://skillicons.dev/icons?i=latex,markdown,regex,git,github,vscode,vim,idea,postman,githubactions,docker,nginx,anaconda" />
-  <img
-    height="46"
-    src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"
-    alt="Jupyter"
-    />
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,rust,sql&theme=dark)](https://martindotpy.dev)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=martindotpy&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681)](https://martindotpy.dev)
+
 </div>
